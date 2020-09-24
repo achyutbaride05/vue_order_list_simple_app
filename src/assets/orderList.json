@@ -1,0 +1,22 @@
+{
+  "orderList": [
+    {
+      "custName": "Achyut",
+      "noOfItemOrders": "2",
+      "totalAmount": "500 Rs",
+      "status": "Pending"
+    },
+    {
+      "custName": "Ajay",
+      "noOfItemOrders": "4",
+      "totalAmount": "800 Rs",
+      "status": "In Progress"
+    },
+    {
+      "custName": "Vijay",
+      "noOfItemOrders": "6",
+      "totalAmount": "900 Rs",
+      "status": "Pending"
+    }
+  ]
+}
